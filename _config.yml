@@ -129,7 +129,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Blog"
-      icon: "fab fa-fw fa-pen-fancy"
+      icon: "fas fa-pencil-alt"
       url: "https://www.yuque.com/albert_chen"
 
 # Site Footer
